@@ -1,0 +1,21 @@
+Applied Scientist, Amazon Music Search 
+(https://www.linkedin.com/jobs/collections/recommended/?currentJobId=4119602997)
+
+Key job responsibilities:
+Use machine learning, deep learning, LLMs and NLP techniques to create scalable solutions for business problems
+Analyze and extract relevant information from large amounts of Amazon's data to help automate and optimize key processes
+Design, development and evaluation of highly innovative models for predictive learning
+Work closely with software engineering teams to drive model implementations and new feature creations
+Establish scalable, efficient, automated processes for large scale data analyses, model development, model validation and model implementation
+Research and implement novel machine learning and statistical approaches
+
+Basic Qualifications:
+Experience programming in Java, C++, Python or related language
+Experience with SQL and an RDBMS (e.g., Oracle) or Data Warehouse
+Experience in state-of-the-art deep learning models architecture design and deep learning training and optimization and model pruning
+Bachelor's degree or above in computer science, mathematics, statistics, machine learning or equivalent quantitative field
+
+Preferred Qualifications:
+Experience implementing algorithms using both toolkits and self-developed code
+Have publications at top-tier peer-reviewed conferences or journals
+Master's degree or above in computer science, mathematics, statistics, machine learning or equivalent quantitative field
